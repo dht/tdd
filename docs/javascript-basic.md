@@ -16,8 +16,6 @@ JavaScript has **primitive** and **non-primitive** (reference) types.
 3. **Boolean**: Represents `true` or `false`.
 4. **Undefined**: A variable that has been declared but not assigned a value.
 5. **Null**: Represents an empty or non-existent value.
-6. **Symbol**: A unique and immutable value (used for advanced cases).
-7. **BigInt**: Used for numbers larger than `Number.MAX_SAFE_INTEGER`.
 
 ### **Non-Primitive Types**
 
