@@ -1,0 +1,22 @@
+{
+  "name": "tdd-webdev-course",
+  "version": "1.0.0",
+  "description": "A beginner-friendly project for learning Test-Driven Development (TDD) in web development.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "tdd",
+    "web-development",
+    "testing",
+    "beginner"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0",
+    "jest-cli": "^29.7.0"
+  }
+}
